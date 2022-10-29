@@ -58,9 +58,7 @@ To run this code, run the Jupyter notebooks in order. The first Jupyter notebook
 
 The original and processed files will be saved under ``data`` folder in your current working directory. The accompanying research paper is attached.
 
-Here are samples of images and their custom augmentations:
+Here are samples of images and their custom augmentations, as well as the program workflow:
 
-<img src="./data/sample.jpg" alt="sample data" width="1000"/>
 <img src="./data/sample-1.jpg" alt="sample data" width="1000"/>
 <img src="./data/sample-2.jpg" alt="sample data" width="1000"/>
-<img src="./data/sample-3.jpg" alt="sample data" width="1000"/>
